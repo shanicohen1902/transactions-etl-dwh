@@ -5,7 +5,7 @@ This is a basic ETL pipeline for populating transactions data into a data wareho
 1. transactions-task-tables: simple queries to view the tables 
 1. transactions-task-reports: a data warehouse usage example
 
- __The DWH model can be found in the model folder__
+ __In the model folder, you will find a Star schema design with two different fact tables and dimensions for the data warehouse__
 
 ## Tech
 - Python3 (pandas, Jupyter notebook)
